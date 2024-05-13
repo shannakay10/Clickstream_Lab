@@ -1,0 +1,7 @@
+66.108.244.227 - - [13/May/2024:04:36:33 +0000] "GET /cafe/ HTTP/1.1" 500 280 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+66.108.244.227 - - [13/May/2024:04:36:33 +0000] "GET /cafe/css/styles.css HTTP/1.1" 200 1319 "http://44.215.67.130/cafe/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+66.108.244.227 - - [13/May/2024:04:36:33 +0000] "GET /favicon.ico HTTP/1.1" 404 196 "http://44.215.67.130/cafe/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+66.108.244.227 - - [13/May/2024:04:40:21 +0000] "GET /cafe/ HTTP/1.1" 500 280 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+66.108.244.227 - - [13/May/2024:04:40:36 +0000] "GET /cafe/menu.php HTTP/1.1" 500 326 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+66.108.244.227 - - [13/May/2024:04:40:36 +0000] "GET /cafe/css/menu.css HTTP/1.1" 200 1183 "http://44.215.67.130/cafe/menu.php" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+66.108.244.227 - - [13/May/2024:04:41:11 +0000] "GET /cafe/processOrder.php HTTP/1.1" 500 295 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"

@@ -1,0 +1,11 @@
+1. Count of users who accessed the menu: 
+   -Showing 1000 of 49,270 records matched
+   -187,051 records (71.6 MB) scanned in 4.7s @ 40,062 records/s (15.3 MB/s)
+
+2. Count of users who made a purchase:
+   -Showing 1000 of 36,898 records matched
+   -187,051 records (71.6 MB) scanned in 4.8s @ 39,025 records/s (14.9 MB/s)
+   
+3. Number of visitors who accessed the menu but didn't make a purchase = 12,372 vistors
+
+4. The percentage of people who visited the menu page and also made a purchase = 74.89%
